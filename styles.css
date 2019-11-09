@@ -7,3 +7,129 @@
        background-position:center;
   background-color: pink;
 }
+
+body{
+  background:url("/home/aditya/Desktop/project 1/timepass/Just-for-fun/img5.jpg");
+  background-size:cover;
+  background-position:center;
+  padding:89px;
+}
+.content_one{
+  text-align:center;
+  padding-top:25%;
+  text-shadow:0px 4px 3px black;
+}
+h1{
+  color:ghostwhite;
+  font-weight:700;
+  font-size:3em;
+}
+h3{
+  color:ghostwhite;
+  font-weight:400;
+  font-size:1em;
+}
+html{
+  height:100%;
+}
+hr.style-two {
+  color:ghostwhite;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+ }
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  text-align:center;
+  width:29%;
+  border-top:1px solid #f8f8f8;
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.date{
+  text-transform: uppercase;
+  color:lightskyblue;
+}
+.para{
+  color:wheat;
+}
+h2{
+  font-size: 50px;
+  color:azure;
+  text-align: center;
+  text-transform: uppercase;
+}
+.content-two{
+  background:rgba(255,255,255,.0);
+  padding-top: 150px;
+}
+p{
+  color:black;
+  text-align:center;
+  font-size: 30px;
+  font-style: bold;
+}
+#new-addition{
+  border:5px solid paleturquoise;
+  margin-left:10px;
+}
+a,.nav-link dropdown-toggle{
+  color:#fff;
+}
+a:hover{
+  color:grey;
+}
+.navbar-dark .navbar-text {
+  color: ghostwhite;
+}
+
+.first
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.7);
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+.second
+{
+    width : 500px;
+    height : 300px;
+    background-color: white;
+    border-radius: 4px;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+}
+
+#heart-img
+{
+    height: 150px;
+    width: 150px;
+}
+button
+{
+    display: block;
+    margin: auto;
+}
+
+
+.close
+{
+    position: absolute;
+    top: 0;
+    right: 14px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.fa-gratipay {
+  color: red;
+}
